@@ -1,4 +1,4 @@
-package r3meters
+package r3metrics
 
 import (
 	"log"
